@@ -1,62 +1,13 @@
 [
   {
     "id": 1,
-    "book": "Sahih al-Bukhari",
-    "number": "1",
-    "chapter": "The Book of Revelation",
+    "book": "Musannaf Ibn Abi Shaybah",
+    "number": "6383",
+    "chapter": "كتاب صلاة التطوع والإمامة",
     "grade": "Sahih",
-    "arabic": "إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ...",
-    "english": "Narrated 'Umar bin Al-Khattab...",
+    "arabic": " - حدثنا علي بن مسهر عن المختار بن فلفل عن أنس بن مالك قال: دَخَلَت على عمر بن الخطاب أمة (قد) (١) كان يعرفها لبعض (٢) المهاجرين أو الأنصار وعليها جلباب متقنعة به فسألها: عتقت؟ قالت: لا، قال: فما بال الجلباب؟ ضعيه ⦗٣٥٥⦘ عن رأسك إنما الجلباب على الحرائر من نساء المؤمنين (فتلكأت) (٣) فقام إليها بالدرة فضربها بها (برأسها) (٤) حتى ألقته عن رأسها (٥). ",
+    "english": "Hazrat Anas bin Malik (may Allah be pleased with him) narrates that a slave woman came to Hazrat Umar bin Khattab, whom he recognized because of some Muhajir or Ansari. She had a large sheet on her, with which she had veiled herself. Hazrat Umar asked her, "Have you been freed?" She replied, "No." He then asked, "Then why are you wearing this sheet?" Take it off your head; the sheet is for the heads of free believing women." At this, the slave woman started making excuses. So Hazrat Umar struck her with his whip on her head and removed her sheet. ",
     "explanation": "...",
-    "misquotes": [
-      {
-        "claim": "Often paraphrased as 'do whatever you want, as long as your intention is good' — as if a sincere intention alone excuses an otherwise forbidden action.",
-        "correction": "The hadith establishes intention as what gives a permissible deed its validity and reward, not as a mechanism that turns a forbidden act into a permitted one. Classical commentators such as al-Nawawi are explicit that this narration concerns the sincerity behind righteous deeds, not a general license to bypass clear prohibitions."
-      },
-      {
-        "claim": "Frequently shortened to just 'actions are but by intentions,' dropping the second half of the hadith about emigrating for worldly gain versus emigrating for God's sake.",
-        "correction": "The full narration continues that whoever emigrates for marriage or wealth attains only that, not the reward of sincere emigration. That second clause narrows the hadith's scope to reward in the Hereafter — it is not a statement that any goal is justified so long as intentions are framed as good."
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "book": "Sahih Muslim",
-    "number": "2593",
-    "chapter": "The Book of Virtue",
-    "grade": "Sahih",
-    "arabic": "إِنَّ اللَّهَ رَفِيقٌ يُحِبُّ الرِّفْقَ...",
-    "english": "A'isha reported...",
-    "explanation": "...",
-    "misquotes": [
-      {
-        "claim": "Quoted in isolation as 'Allah loves gentleness in all things' to argue that any firmness, correction, or disagreement is inherently un-Islamic.",
-        "correction": "The hadith describes gentleness as a praiseworthy general disposition, but it is read alongside other authentic texts that permit — and at times require — firmness in upholding truth or justice. Gentleness in manner does not, on its own, rule out clarity or correction when needed."
-      },
-      {
-        "claim": "Sometimes rendered as 'Allah loves the gentle person more than the strong one,' turning a statement about the virtue of gentleness into an explicit ranking not present in the wording.",
-        "correction": "The authentic text describes Allah's own attribute of gentleness and His love for gentle conduct; it does not contain an explicit comparison ranking 'gentle' people above 'strong' ones."
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "book": "Riyad as-Salihin",
-    "number": "44",
-    "chapter": "The Book of Patience",
-    "grade": "Sahih",
-    "arabic": "عَجَبًا لأَمْرِ الْمُؤْمِنِ إِنَّ أَمْرَهُ كُلَّهُ خَيْرٌ",
-    "english": "How wonderful is the affair of the believer, for his affairs are all good...",
-    "explanation": "This narration highlights how a believer's mindset transforms every life situation into a source of spiritual growth, whether through gratitude or patience.",
-    "misquotes": [
-      {
-        "claim": "Circulated with an added claim that 'the believer faces no negative consequences' from their decisions, since 'all their affairs are good.'",
-        "correction": "The hadith specifies two conditions through which good comes to the believer: gratitude in ease and patience in hardship. It describes a spiritual orientation toward whatever happens, not an exemption from the real-world consequences of one's choices."
-      },
-      {
-        "claim": "Occasionally presented without attribution, or mistaken for a Qur'anic verse rather than a hadith.",
-        "correction": "This is an authentic hadith narrated by Suhaib ibn Sinan and recorded in Sahih Muslim (and compiled in Riyad as-Salihin) — it is not a verse of the Qur'an, and conflating the two misrepresents its textual source and status."
-      }
-    ]
+    "misquotes": null
   }
 ]
