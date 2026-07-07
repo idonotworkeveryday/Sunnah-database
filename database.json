@@ -11,7 +11,7 @@
     "misquotes": [
       {
         "claim": "The Hadith is Mudhtarib.",
-        "correction": "This Hadith cannot be taken as mudhtarib as all ahadith present (with similar text) show the most of the query (similarity in matn) and no of the major scholars listed it as mudhtarib, instead they listed it as sahih."
+        "correction": "This Hadith cannot be classified as mudhtarib. The vast majority of authentic chains transmit a consistent core text (matn), and none of the leading classical Hadith masters categorized it as defective. Instead, they overwhelmingly graded it as Sahih."
       }
     ]
   }
